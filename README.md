@@ -49,4 +49,5 @@ This project focuses on transforming raw data into meaningful insights using dat
 This project demonstrates how data visualization helps in simplifying complex data and making better business decisions.
 
 👤 Author
+
 Thirumalini E  
